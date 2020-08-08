@@ -58,7 +58,7 @@
 ?>
 				</article>
 				<div>
-					<a href="db_new.php" class="db-link add" >Add New Student</a>
+					<a href="db_new.php" class="db-link add" >Add New Student</a> 
 				</div>
 			</div>
 		</main>
